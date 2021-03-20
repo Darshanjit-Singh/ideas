@@ -9,3 +9,4 @@
 - [x] RxSwift by tutorials
 - [x] Mastering git
 - [ ] Abusing and beating of developers.
+- [ ] Debugging with the Grace Hopper Method
